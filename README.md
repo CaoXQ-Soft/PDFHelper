@@ -58,13 +58,17 @@
     检测PDF文件里面的空白页面，并可以选择是否导出相关信息以及是否删除对应空白页面。<br>
     
 **十五、PDF移动**<br>
+
     将PDF或指定类型的文件从纷杂众多的文件和文件夹中复制或移动出来。<br>
     
 **十六、PDF属性**<br>
+
     批量设置PDF的属性。<br>
     
 **十七、PDF隐私**<br>
+
     将PDF的部分属性擦除以保护个人隐私。<br>
+
 
 
 ![image](https://github.com/user-attachments/assets/82818ddf-b596-446b-afbd-851b778b54ee)
